@@ -1,0 +1,23 @@
+name: Winnipegwebsitebuilders
+favicon: null
+layout_spectrum: 0.6570171159692109
+typography_spectrum: 0.10142060974612832
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.41007069149054587
+  lightness: 0.4722926919348538
+  saturation: 0.0443593414966017
+  rhythmicContrast: 0.045301072066649795
+purpose: []
